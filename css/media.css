@@ -164,7 +164,7 @@
     width: 100%;
   }
 }
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 1124px) and (min-width: 768px) {
   .navbar-links {
     display: none;
   }
