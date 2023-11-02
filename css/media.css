@@ -1,0 +1,318 @@
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .navbar-links {
+    display: none;
+  }
+  .home {
+    background-size: cover;
+    background-position: center;
+  }
+  .home-cap {
+    top: 40%;
+    left: 30%;
+  }
+  .home h3 {
+    font-size: 24px;
+  }
+  .home h1 {
+    font-size: 70px;
+  }
+  .home h4 {
+    font-size: 26px;
+  }
+  .list-bar {
+    display: block;
+  }
+  .about .contianr .about-img {
+    width: 50%;
+    border: none;
+  }
+  .about .contianr .about-img img {
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+  }
+  .about .contianr .about-cap {
+    width: 50%;
+    padding: 0 20px;
+  }
+  .about .contianr .about-cap .information1 {
+    width: 43%;
+    vertical-align: top;
+    font-size: 14px;
+  }
+  .about .contianr .about-cap .information2 {
+    width: 53%;
+    font-size: 14px;
+    padding: 0;
+  }
+  .about {
+    margin: 0;
+  }
+  .services .contianr .items {
+    width: 50%;
+  }
+  .portfolio .contianr .portfolio-img {
+    width: 50%;
+  }
+  .blog .contianr {
+    width: 100%;
+  }
+  .contact-us .contianr .form {
+    width: 100%;
+    margin: 0 10px;
+  }
+}
+@media screen and (max-width: 991px) and (min-width: 768px) {
+  .navbar-links {
+    display: none;
+  }
+  .logo a {
+    font-size: 60px;
+    padding-left: 0px;
+  }
+  .home {
+    background-size: cover;
+    background-position: center;
+  }
+  .home-cap {
+    top: 40%;
+    left: 30%;
+  }
+  .home h3 {
+    font-size: 60px;
+  }
+  .home h1 {
+    font-size: 70px;
+  }
+  .home h4 {
+    font-size: 26px;
+  }
+  .list-bar {
+    display: block;
+  }
+  .list-bar i {
+    font-size: 50px;
+  }
+  .about .contianr .about-cap h2 {
+    font-size: 4rem;
+  }
+  .about .contianr .about-cap p {
+    font-size: 2rem;
+    line-height: 1.5;
+  }
+  .about .contianr .about-cap .information1 p,
+  .about .contianr .about-cap .information1 span,
+  .about .contianr .about-cap .information2 p,
+  .about .contianr .about-cap .information2 span {
+    font-size: 42px;
+  }
+  .about .contianr .about-cap .information1,
+  .about .contianr .about-cap .information2 {
+    width: 50%;
+  }
+  .about .contianr .btn button {
+    font-size: 40px;
+    padding: 20px;
+    margin-right: 20px;
+  }
+  .about .contianr .about-img {
+    width: 100%;
+    border: none;
+  }
+  .about .contianr .about-img img {
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+  }
+  .about .contianr .about-cap {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .about .contianr .about-cap .information1 {
+    display: block;
+    padding: 0;
+  }
+  .about .contianr .about-cap .information2 {
+    display: block;
+    padding: 0;
+  }
+  .about {
+    margin: 0;
+  }
+  .services .contianr .items {
+    width: 100%;
+  }
+  .services .contianr .items i {
+    font-size: 80px;
+  }
+  .services .contianr .items h3 {
+    font-size: 50px;
+  }
+  .services .contianr .items p {
+    font-size: 40;
+    line-height: 1.8;
+  }
+  .portfolio .contianr .portfolio-img {
+    width: 100%;
+  }
+  .portfolio .contianr button {
+    font-size: 39px;
+  }
+  .info .contianr .items i {
+    font-size: 75px;
+  }
+  .info .contianr .items h3 {
+    font-size: 70px;
+  }
+  .info .contianr .items h5 {
+    font-size: 40px;
+  }
+  .info .contianr .items {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .feedback .contianr .center .contant {
+    float: none;
+  }
+  .feedback .contianr .center .contianr-img {
+    float: none;
+  }
+  .feedback .contianr .center {
+    width: 100%;
+  }
+  .blog .contianr .contianr-items {
+    width: 100%;
+  }
+  .blog .contianr .contant h4 {
+    font-size: 40px;
+  }
+  .blog .contianr .contant h3 {
+    font-size: 50px;
+  }
+  .blog .contianr .contant p {
+    font-size: 40px;
+    line-height: 1.5;
+  }
+  .blog .contianr .contant a {
+    font-size: 40px;
+  }
+  .contact-us .contianr .form .name input {
+    width: 100%;
+    margin-bottom: 40px;
+    font-size: 40px;
+    padding: 19px 20px;
+  }
+  .contact-us .contianr .form .email input,
+  .contact-us .contianr .form .subject input {
+    width: 100%;
+    margin-bottom: 40px;
+    font-size: 40px;
+    padding: 19px 20px;
+  }
+}
+.contact-us .contianr .form button {
+  padding: 20px;
+  font-size: 40;
+}
+.contact-us .contianr .form .message textarea {
+  height: 16rem;
+}
+.footer .links ul li a i {
+  font-size: 40px;
+  margin: 20px;
+}
+@media screen and (max-width: 600px) {
+  .navbar-links {
+    display: none;
+  }
+  .home {
+    background-size: cover;
+    background-position: center;
+  }
+  .home-cap {
+    top: 40%;
+    left: 30%;
+  }
+  .home h3 {
+    font-size: 22px;
+  }
+  .home h1 {
+    font-size: 38px;
+  }
+  .home h4 {
+    font-size: 18px;
+  }
+  .home-cap h4 {
+    text-align: center;
+    width: 100%;
+  }
+  .list-bar {
+    display: block;
+  }
+  .about .contianr .about-img {
+    width: 100%;
+    border: none;
+  }
+  .about .contianr .about-img img {
+    transform: none;
+    -webkit-transform: none;
+    -moz-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+  }
+  .about .contianr .about-cap {
+    width: 100%;
+    padding: 0 20px;
+  }
+  .about .contianr .about-cap .information1 {
+    display: block;
+    padding: 0;
+  }
+  .about .contianr .about-cap .information2 {
+    display: block;
+    padding: 0;
+  }
+  .about {
+    margin: 0;
+  }
+  .services .contianr .items {
+    width: 100%;
+  }
+  .portfolio .contianr .portfolio-img {
+    width: 100%;
+  }
+  .info .contianr .items {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .feedback .contianr .center .contant {
+    float: none;
+  }
+  .feedback .contianr .center .contianr-img {
+    float: none;
+  }
+  .feedback .contianr .center {
+    width: 100%;
+  }
+  .blog .contianr .contianr-items {
+    width: 100%;
+  }
+  .blog .contianr {
+    width: 100%;
+  }
+  .contact-us .contianr .form .name input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .contact-us .contianr .form .email input {
+    width: 100%;
+  }
+  .contact-us .contianr .form {
+    width: 100%;
+    margin: 0 0;
+  }
+}
