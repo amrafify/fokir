@@ -213,7 +213,6 @@
     font-size: 40px;
     padding: 19px 20px;
   }
-}
 .contact-us .contianr .form button {
   padding: 20px;
   font-size: 40;
@@ -225,6 +224,7 @@
 .footer .links ul li a i {
   font-size: 40px;
   margin: 20px;
+}
 }
 @media screen and (max-width: 600px) {
   .navbar-links {
